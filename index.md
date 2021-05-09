@@ -26,9 +26,9 @@ classes: wide
 &nbsp; &nbsp;
   
   
-|Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Sector público  | Inexistente  |  *[Repositorio](https://github.com/opencitydata/vocab-sector-publico-inventario)*  |  *[Issues](https://github.com/opencitydata/vocab-sector-publico-inventario/issues)* |  Inventario de bienes muebles, inmuebles, bienes de interés cultural y arrendamientos.   |    |    |     |     |       |
+|Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
+| -------- | -------- | --------- | ---------- | --------------- |
+| Sector público  | Inexistente  |  *[Repositorio](https://github.com/opencitydata/vocab-sector-publico-inventario)*  |  *[Issues](https://github.com/opencitydata/vocab-sector-publico-inventario/issues)* |  Inventario de bienes muebles, inmuebles, bienes de interés cultural y arrendamientos.   |   
  
   
 
